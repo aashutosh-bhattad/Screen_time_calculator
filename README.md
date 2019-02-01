@@ -1,4 +1,4 @@
-# Screen_time_jerry
+# Screen_time_calculation
 Estimating the screen-time of characters in a videoclip
 
 Employed Deep Convolutional Neural Networks to calculate the screentime of tom and jerry in a short video clip
